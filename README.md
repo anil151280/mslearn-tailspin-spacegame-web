@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/anil151280/space%20game%20new%20pipline/_apis/build/status/anil151280.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/anil151280/space%20game%20new%20pipline/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
